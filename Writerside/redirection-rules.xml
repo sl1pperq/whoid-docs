@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="6ffc6d14">
+        <description>Created after removal of "Overview" from API Docs</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="673d4d69">
+        <description>Created after removal of "Authentification" from API Docs</description>
+        <accepts>Authentification.html</accepts>
+    </rule>
+    <rule id="4078eb73">
+        <description>Created after removal of "API Quickstart" from API Docs</description>
+        <accepts>API-quickstart-XML.html</accepts>
+    </rule>
+    <rule id="20d17971">
+        <description>Created after removal of "API Overview" from API Docs</description>
+        <accepts>API-Overview.html</accepts>
+    </rule>
+    <rule id="8146e1e">
+        <description>Created after removal of "Changes" from API Docs</description>
+        <accepts>Changes-XML.html</accepts>
+    </rule>
+    <rule id="22c206f3">
+        <description>Created after removal of "Find pet inventories by status" from API Docs</description>
+        <accepts>Returns-pet-inventories-by-status.html</accepts>
+    </rule>
+    <rule id="7d687097">
+        <description>Created after removal of "Place order for pet" from API Docs</description>
+        <accepts>Place-an-order-for-a-pet.html</accepts>
+    </rule>
+    <rule id="bc57aac">
+        <description>Created after removal of "Find purchase order by ID" from API Docs</description>
+        <accepts>Find-purchase-order-by-ID.html</accepts>
+    </rule>
+    <rule id="36f32fdd">
+        <description>Created after removal of "Delete purchase order by ID" from API Docs</description>
+        <accepts>Delete-purchase-order-by-ID.html</accepts>
+    </rule>
+    <rule id="5f7b86c2">
+        <description><![CDATA[Created after removal of "<Create-user.md>" from API Docs]]></description>
+        <accepts>Create-user.html</accepts>
+    </rule>
+    <rule id="36b1bc80">
+        <description>Created after removal of "Начало" from Docs WhoID-API</description>
+        <accepts>Pet.html</accepts>
+    </rule>
+    <rule id="33971f7a">
+        <description>Created after removal of "Log user into the system" from Docs WhoID-API</description>
+        <accepts>Logs-user-into-the-system.html</accepts>
+    </rule>
+    <rule id="2b742101">
+        <description>Created after removal of "Log current user out" from Docs WhoID-API</description>
+        <accepts>Logs-out-current-logged-in-user-session.html</accepts>
+    </rule>
+    <rule id="69d060b6">
+        <description>Created after removal of "Find user" from Docs WhoID-API</description>
+        <accepts>Get-user-by-user-name.html</accepts>
+    </rule>
+    <rule id="38533693">
+        <description>Created after removal of "Update user" from Docs WhoID-API</description>
+        <accepts>Update-user.html</accepts>
+    </rule>
+    <rule id="2229b450">
+        <description>Created after removal of "Delete user" from Docs WhoID-API</description>
+        <accepts>Delete-user.html</accepts>
+    </rule>
+    <rule id="445e2b57">
+        <description>Created after removal of "Changes" from Docs WhoID-API</description>
+        <accepts>Changes.html</accepts>
+    </rule>
+    <rule id="4bab876e">
+        <description>Created after removal of "Руководство API" from Docs WhoID-API</description>
+        <accepts>API-reference.html</accepts>
+    </rule>
+</rules>

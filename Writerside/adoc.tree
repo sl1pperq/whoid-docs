@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="adoc"
+                 name="Docs WhoID-API"
+                 start-page="API-Welcome.md">
+
+    <toc-element topic="API-Welcome.md"/>
+    <toc-element topic="API-Python.md">
+    </toc-element>
+    <toc-element topic="API-Link.md"/>
+</instance-profile>
